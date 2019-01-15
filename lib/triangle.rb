@@ -15,6 +15,6 @@ class Triangle
       puts :scalene
     end
   end
-      
+
 
 end
