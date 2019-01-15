@@ -23,5 +23,5 @@ class Triangle
     [side1, side2, side3].each { |x| triangle << false if x <= 0}
     raise TriangleError if triangle.include?(false)
   end
-  
+
 end
